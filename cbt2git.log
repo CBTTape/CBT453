@@ -1,0 +1,12 @@
+2023-04-03 00:22:25.462608 - Initialized conversion of CBT453
+2023-04-03 00:22:25.527141 - Received CBT.V504.FILE453.PDS from FILE453.XMI 
+2023-04-03 00:22:25.529974 - Found $$$$DELE.txt (text/plain) in CBT.V504.FILE453.PDS, moved to PDS/$$$$DELE
+2023-04-03 00:22:25.531246 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE453.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:22:25.532197 - Found $$$DOC.txt (text/plain) in CBT.V504.FILE453.PDS, moved to PDS/$$$DOC
+2023-04-03 00:22:25.533343 - Found @FILE453.txt (text/plain) in CBT.V504.FILE453.PDS, moved to PDS/@FILE453
+2023-04-03 00:22:25.534471 - Found CBTF0.txt (text/plain) in CBT.V504.FILE453.PDS, moved to PDS/CBTF0
+2023-04-03 00:22:25.535540 - Found CBTF1.txt (text/plain) in CBT.V504.FILE453.PDS, moved to PDS/CBTF1
+2023-04-03 00:22:25.536665 - Found CBTF2.txt (text/plain) in CBT.V504.FILE453.PDS, moved to PDS/CBTF2
+2023-04-03 00:22:25.537677 - Found CBTF3.txt (text/plain) in CBT.V504.FILE453.PDS, moved to PDS/CBTF3
+2023-04-03 00:22:25.538667 - Found CBTF4.txt (text/plain) in CBT.V504.FILE453.PDS, moved to PDS/CBTF4
+2023-04-03 00:22:25.539698 - Found CBTF5.txt (text/plain) in CBT.V504.FILE453.PDS, moved to PDS/CBTF5
