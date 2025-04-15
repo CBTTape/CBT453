@@ -1,11 +1,11 @@
-2025-04-13 19:46:51.304818 - Received CBT.V508.FILE453.PDS from FILE453.XMI 
-2025-04-13 19:46:51.305842 - Found $$$$DELE.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/$$$$DELE
-2025-04-13 19:46:51.305940 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/$$$#DATE
-2025-04-13 19:46:51.306036 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/$$$DOC
-2025-04-13 19:46:51.306153 - Found @FILE453.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/@FILE453
-2025-04-13 19:46:51.306231 - Found CBTF0.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/CBTF0
-2025-04-13 19:46:51.306345 - Found CBTF1.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/CBTF1
-2025-04-13 19:46:51.306419 - Found CBTF2.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/CBTF2
-2025-04-13 19:46:51.306479 - Found CBTF3.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/CBTF3
-2025-04-13 19:46:51.306572 - Found CBTF4.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/CBTF4
-2025-04-13 19:46:51.306642 - Found CBTF5.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/CBTF5
+2025-04-15 02:37:34.877575 - Received CBT.V508.FILE453.PDS from FILE453.XMI 
+2025-04-15 02:37:34.879120 - Found $$$$DELE.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/$$$$DELE
+2025-04-15 02:37:34.879322 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/$$$#DATE
+2025-04-15 02:37:34.879522 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/$$$DOC
+2025-04-15 02:37:34.879714 - Found @FILE453.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/@FILE453
+2025-04-15 02:37:34.879935 - Found CBTF0.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/CBTF0
+2025-04-15 02:37:34.880122 - Found CBTF1.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/CBTF1
+2025-04-15 02:37:34.880310 - Found CBTF2.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/CBTF2
+2025-04-15 02:37:34.880498 - Found CBTF3.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/CBTF3
+2025-04-15 02:37:34.880700 - Found CBTF4.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/CBTF4
+2025-04-15 02:37:34.880892 - Found CBTF5.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/CBTF5
